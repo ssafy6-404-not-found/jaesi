@@ -1,0 +1,53 @@
+HELP.md
+.gradle
+build/classes
+build/generated
+build/resources
+build/tmp
+build/reports
+build/test-results
+build/bootJarMainClassName
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+src/main/resources/keystore/pnf404.p12
+.env
+
+
+page-not-found.log
+*.gz
+*.tmp
+
+db_volumes/data
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
