@@ -45,7 +45,7 @@
 
 ## 🕹시연영상
 
-[![logo](https://user-images.githubusercontent.com/42627507/154907628-a7fc06ff-e8a8-4632-ad0a-c91cb8531aa9.png)](https://youtu.be/3HQ3o0S2VZc) <strong> 👈👈 클릭 ! </strong>
+[![logo](https://user-images.githubusercontent.com/42627507/154907628-a7fc06ff-e8a8-4632-ad0a-c91cb8531aa9.png)](https://youtu.be/OXlkkKYQNdE) <strong> 👈👈 클릭 ! </strong>
 
 <br>
 
